@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**alba02/alba02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I'm Alba Maldonado.
+Here are some things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I’m currently a Raritan Valley Community College student (she/her)
+- 📚 My major is Interface and Web Development
+- 👩‍🎓 hope to graduate next fall of 2022
+- 🎵 I love to listen to music and discover new music all the time
+- 🆕I love to learn new things and find new hobbies
+- 🎨 I often enjoy visiting museums and seeing different artworks
+- 📫 How to reach me: AlbaMaldonado450@gmail.com
+
+
