@@ -15,3 +15,5 @@ Here are some things about me:
 ## Some of my recently played music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=forever29ieze)
 
+## A recent digital drawing
+![digitl drawing](https://user-images.githubusercontent.com/71994650/150731913-0ee9f645-acdc-4c0f-a6f0-3ade39a84ee4.jpg)
